@@ -1,6 +1,6 @@
 # Task 6 - Update & Search Products/Buyers
 
-This project implements **search & update functionality** for Products/Buyers as per Task 6 requirements.
+This project implements **search & update functionality** for Products/Buyers .
 
 ## Features
 ✅ Search products/buyers by keyword, category, location, or price  
